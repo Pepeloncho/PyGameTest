@@ -1,0 +1,56 @@
+Name -- Duh.
+    Race -- Species of the character.
+    Discipline -- This describes the role or class of the character.
+    Life Pool -- This is health points.
+    Action Pool -- This is the base value of a character's action points. Which are spent on every combat action.
+    Focus Pool -- This is mana.
+    Will Pool -- This measures a character's ability to stay sane and focused. Can be spent on Hellbent combat actions.
+    Transcendence Pool -- Can be invested on lifesaving combat rerolls, on bonus rolls or to automatically pass a non-combat challenge. At the end of a scenario, they can be used on different ways to leave a mark on history, to erase some scars or to gain virtues.
+
+    Main Stats
+        *Body -- Physical Prowess.
+        *Control -- Coordination and swiftness.
+        *Mind -- Alertness & Mental Prowess.
+        *Spirit -- Will and mental fortitude.
+        *Presence -- Appearance, "shadow-casting" and destiny in the eyes of the gods.
+
+    Each main stat has substats. A utility stat and a pool stat.
+    Body stats
+        *Vigor -- Strength and power.
+        *Constitution -- Physical fortitude. Determines Life Pool.
+    Control stats
+        *Dexterity -- Precision, coordination, equilibrium. Ability to perform skillfully difficult tasks with hands.
+        *Agility -- Swiftness and acrobatics. Determines action pool.
+    Mind stats
+        *Awareness -- Wariness of surroundings, vigilance and ability to capture subtle details.
+        *Wit -- Inventive thought and quick understanding. Ability to focus and keen intelligence. Determines Focus Pool.
+    Spirit stats
+        *Soul -- Mind over matter ability. The force and power of the non-physical self. How the body digest magic. Calculates sturdiness against spells.
+        *Willpower -- Sheer will. Ability to stay sane and calm in the face of peril and to fight the urges of the body. Determines Will Pool.
+    Presence stats
+        *Charisma -- How the mortals see the character. Social prowess. Calculates appearance and "shadow-casting".
+        *Providence -- How the gods see the character. Determines Transcendence pool.
+
+    Next are skill stats, those determine the variety of skills on each branch the character can learn. And the ranks they can assign to them.
+    Skill stats
+        *Combat -- The way of the steel.
+        *Stealth -- Stay in the shadows.
+        *Knowledge -- Harness reality.
+        *Magic -- Master the spellcraft.
+        *Social -- Silver tongue.
+
+
+
+    TRAITS
+
+    FEATS
+    Surgical strikes (Reqs. Ranger class disciplines, weapon master discipline) :
+            "Can strike vital points with accuracy"
+            Can use dexterity to calculate damage with most weapons. (overriding weapon stat)
+
+    Healing hands (Reqs. Healing skill and Light spellcraft skill) :
+            "The character has the gift of healing by imposing his hands"
+            Can use soul to calculate heal with 'healing' skill. Doesn't require tools.
+            Can only be applied to cuts, lacerations, bruises and broken bones.
+
+    Brute
